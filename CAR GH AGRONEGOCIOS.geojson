@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CAR GH AGRONEGOCIOS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4989" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 1, "visibility": -1, "drawOrder": null, "icon": null, "parcela_co": "3dcb75da-5da7-4d2d-b6be-6d3f9d7f5b6f", "rt": "MDZT", "art": "1020240293743-GO", "situacao_i": "REGISTRADA", "codigo_imo": "9261320328757", "data_submi": "2024/10/10", "data_aprov": "2024/10/11", "status": "REGISTRADA", "nome_area": "Fazenda Macacos - PARTE 1", "registro_m": "27367", "registro_d": "2025/03/18", "municipio_": 5221601, "uf_id": 52 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -49.15497611, -14.47596833, 529.327 ], [ -49.15321111, -14.47554611000001, 524.167 ], [ -49.152993610000017, -14.47640944, 523.191 ], [ -49.15111972, -14.475961390000011, 503.832 ], [ -49.15114167, -14.475906939999989, 503.09599999999989 ], [ -49.15121417000001, -14.47581222, 503.647 ], [ -49.151251109999968, -14.47555889, 504.78 ], [ -49.151445, -14.47536417, 505.362 ], [ -49.15163361, -14.47519333, 506.203 ], [ -49.151698890000013, -14.47510611, 507.354 ], [ -49.15187778, -14.474955, 509.112 ], [ -49.155273889999982, -14.47478444, 535.142 ], [ -49.15497611, -14.47596833, 529.327 ] ] ] } }
+]
+}
